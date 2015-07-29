@@ -1,0 +1,12 @@
+# Site settings
+title: Chris Trevino
+email: darthtrevino@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My little github space.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://darthtrevino.github.io" # the base hostname & protocol for your site
+twitter_username: darthtrevino
+github_username:  darthtrevino
+
+# Build settings
+markdown: kramdown
